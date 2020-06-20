@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Clase Online 1</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="clase-online-1">Clase Online #1</h1>
+---
+
+<h1 id="clase-online-1">Clase Online #1</h1>
 <p><strong>Fecha:</strong> 20.marzo.2020</p>
 <h2 id="actividad-online-1">Actividad Online 1</h2>
 <p>Ver los videos de las clases impartidas por <a href="https://es.wikipedia.org/wiki/Andrew_Ng">Andrew Ng</a></p>
@@ -47,7 +41,4 @@ Ahora lo que hay que hacer es optimizar la función de costo, es decir, minimiza
 <li><a href="https://youtu.be/0kns1gXLYg4">Lecture 2.4</a></li>
 </ul>
 <p>Estudien bien su contenido, en estas clases ustedes van a conocer como se calcula el valor estimado de <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mover accent="true"><mi>y</mi><mo>^</mo></mover><mrow><mo stretchy="false">(</mo><mi>i</mi><mo stretchy="false">)</mo></mrow></msup></mrow><annotation encoding="application/x-tex">\hat{y}^{(i)}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1.08244em; vertical-align: -0.19444em;"></span><span class="mord"><span class="mord accent"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.69444em;"><span class="" style="top: -3em;"><span class="pstrut" style="height: 3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right: 0.03588em;">y</span></span></span><span class="" style="top: -3em;"><span class="pstrut" style="height: 3em;"></span><span class="accent-body" style="left: -0.19444em;">^</span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.19444em;"><span class=""></span></span></span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.888em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mopen mtight">(</span><span class="mord mathdefault mtight">i</span><span class="mclose mtight">)</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-</div>
-</body>
 
-</html>
