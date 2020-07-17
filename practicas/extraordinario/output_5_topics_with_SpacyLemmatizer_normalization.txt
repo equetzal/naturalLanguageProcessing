@@ -1,0 +1,9 @@
+(0, '0.029*"ser" + 0.017*"parir" + 0.009*"haber" + 0.008*"comer" + 0.007*"tener" + 0.006*"poder" + 0.005*"deber" + 0.004*"nuevo" + 0.004*"año" + 0.004*"hacer"')
+
+(1, '0.020*"ser" + 0.014*"parir" + 0.008*"haber" + 0.006*"comer" + 0.006*"poder" + 0.006*"tener" + 0.005*"año" + 0.004*"mercar" + 0.004*"partir" + 0.004*"país"')
+
+(2, '0.028*"ser" + 0.014*"parir" + 0.012*"haber" + 0.010*"comer" + 0.007*"tener" + 0.007*"poder" + 0.005*"hacer" + 0.005*"partir" + 0.004*"año" + 0.004*"unir"')
+
+(3, '0.015*"ser" + 0.015*"parir" + 0.006*"país" + 0.005*"haber" + 0.005*"méxico" + 0.005*"comer" + 0.005*"poder" + 0.005*"año" + 0.005*"mercar" + 0.005*"crecimiento"')
+
+(4, '0.008*"parir" + 0.007*"ser" + 0.006*"poder" + 0.006*"comer" + 0.005*"mexicano" + 0.004*"democrático" + 0.004*"haber" + 0.004*"establecer" + 0.004*"nacional" + 0.004*"legislativo"')

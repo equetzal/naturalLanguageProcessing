@@ -1,0 +1,9 @@
+(0, '0.004*"berlin" + 0.004*"partido" + 0.003*"ser" + 0.003*"iglesias" + 0.003*"política" + 0.003*"debe" + 0.003*"hace" + 0.003*"chihuahua" + 0.003*"artemio" + 0.003*"puede"')
+
+(1, '0.003*"méxico" + 0.003*"información" + 0.003*"red" + 0.003*"millones" + 0.003*"redes" + 0.003*"país" + 0.003*"aplicaciones" + 0.003*"software" + 0.003*"años" + 0.002*"siguiente"')
+
+(2, '0.005*"crecimiento" + 0.004*"méxico" + 0.003*"economía" + 0.003*"china" + 0.003*"año" + 0.003*"país" + 0.003*"ciento" + 0.003*"sector" + 0.003*"mercado" + 0.002*"gobierno"')
+
+(3, '0.003*"sun" + 0.003*"gobierno" + 0.003*"ser" + 0.003*"ciento" + 0.003*"año" + 0.003*"mx" + 0.003*"guerra" + 0.003*"puede" + 0.003*"siguiente" + 0.003*"excelsior"')
+
+(4, '0.004*"méxico" + 0.002*"mexicano" + 0.002*"dólares" + 0.002*"mil" + 0.002*"mercado" + 0.002*"sólo" + 0.002*"excelsior" + 0.002*"siguiente" + 0.002*"director" + 0.002*"fin"')
